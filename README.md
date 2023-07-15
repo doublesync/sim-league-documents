@@ -3,7 +3,7 @@ I wanted a place to centralize all of the information I have about simulation le
 
 ## Simulation Leagues
 ### Basketball
-  - [View documentation](https://hoopsim.com) | [Hoopsim](https://hoopsim.com) - A simulation basketball league with games streamed on NBA2K.
+  - [View documentation](basketball/hoopsim/pilot.md) | [Hoopsim](https://hoopsim.com) - A simulation basketball league with games streamed on NBA2K.
 
 ## Contributors
 - Doublesync
