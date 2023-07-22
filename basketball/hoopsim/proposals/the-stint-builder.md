@@ -14,7 +14,7 @@ Enough reading though; here's the system.
 
 ## Weights/Values
 
-The **'16 points available'** is just a placeholder. We'll work to make the number of points available in the builder as fair as possible. The weights are also subject to change and we'll make sure they make sense. 
+The **'16 points available'** is just a placeholder. We'll work to make the number of points available in the builder as fair as possible. The weights (cost of each attribute/badge) are also subject to change and we'll make sure they make sense. 
 
 When you're creating a new player you can choose multiple attributes and badges as long as you don't go over the **points available.** *Why are attributes and badges weighted?* Simply put, some badges and attributes are more valuable than others.
 
