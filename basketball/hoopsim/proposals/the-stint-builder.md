@@ -21,14 +21,14 @@ When you're creating a new player you can choose multiple attributes and badges 
 Basically, each attribute and badge has it's own **'cost'** or **'value'** in the player builder.
 
 ## Spent Rewards
--   $10,000 (+1 badge points, +1 secondary point)
--   $20,000 (+1 badge points, +1 primary point, +1 secondary points)
--   $30,000 (+1 badge points, +1 primary point, +2 secondary points)
--   $40,000 (+1 badge points, +2 primary points, +2 secondary points)
--   $50,000 (+1 badge points, +2 primary points, +2 secondary points)
--   $60,000 (+1 badge points, +2 primary points, +2 secondary points)
--   $80,000 (+1 badge points, +2 primary points, +3 secondary points)
--   $100,000 (+1 badge points, +3 primary points, +4 secondary points) 
+-   $10,000 (+1 badge point, +1 secondary point)
+-   $20,000 (+1 badge point, +1 primary point, +1 secondary points)
+-   $30,000 (+1 badge point, +1 primary point, +2 secondary points)
+-   $40,000 (+1 badge point, +2 primary points, +2 secondary points)
+-   $50,000 (+1 badge point, +2 primary points, +2 secondary points)
+-   $60,000 (+1 badge point, +2 primary points, +2 secondary points)
+-   $80,000 (+1 badge point, +2 primary points, +3 secondary points)
+-   $100,000 (+1 badge point, +3 primary points, +4 secondary points) 
   
 *(Players who invest in a base badge before adding it as a primary or secondary can refund the difference in price)*
 
