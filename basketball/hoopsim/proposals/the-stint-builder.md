@@ -23,7 +23,7 @@ Basically, each attribute and badge has it's own **'cost'** or **'value'** in th
 ## Spent Rewards
 -   $10,000 (+1 badge upgrade, +1 secondary point)
 -   $20,000 (+1 badge upgrade, +1 primary point, +1 secondary points)
--   $30,000 (+1 badge upgrade, +1 primary point, +2 secondary points)
+-   $30,000 (+1 badge upgrade, +1 primary point, +3 secondary points)
 -   $40,000 (+1 badge upgrade, +2 primary points, +2 secondary points)
 -   $50,000 (+1 badge upgrade, +2 primary points, +2 secondary points)
 -   $60,000 (+1 badge upgrade, +2 primary points, +2 secondary points)
