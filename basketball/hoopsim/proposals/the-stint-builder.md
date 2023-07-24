@@ -29,6 +29,7 @@ Basically, each attribute and badge has it's own **'cost'** or **'value'** in th
 -   $60,000 (+1 badge points, +2 primary points, +2 secondary points)
 -   $80,000 (+1 badge points, +2 primary points, +3 secondary points)
 -   $100,000 (+1 badge points, +3 primary points, +4 secondary points)
+  
 *(Players who invest in a base badge before adding it as a primary or secondary can refund the difference in price)*
 
 These rewards give **(even new players)** something to look forward to throughout their careers.
