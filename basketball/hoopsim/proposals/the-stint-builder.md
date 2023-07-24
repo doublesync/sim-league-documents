@@ -21,15 +21,14 @@ When you're creating a new player you can choose multiple attributes and badges 
 Basically, each attribute and badge has it's own **'cost'** or **'value'** in the player builder.
 
 ## Spent Rewards
--   $10,000 (+2 badge points)
--   $20,000 (+2 badge points)
--   $30,000 (+2 badge points)
--   $40,000 (+2 badge points)
--   $50,000 (+2 badge points)
+-   $10,000 (+1 badge points)
+-   $20,000 (+1 badge points)
+-   $30,000 (+1 badge points)
+-   $40,000 (+1 badge points)
+-   $50,000 (+1 badge points)
 -   $60,000 (+2 badge points)
--   $80,000 (+4 badge points)
--   $100,000 (+4 badge points)
--   $120,000 (+4 badge points)
+-   $80,000 (+2 badge points)
+-   $100,000 (+2 badge points)
 
 These rewards give **(even new players)** something to look forward to throughout their careers.
 
