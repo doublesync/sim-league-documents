@@ -21,7 +21,7 @@ When you're creating a new player you can choose multiple attributes and badges 
 Basically, each attribute and badge has it's own **'cost'** or **'value'** in the player builder.
 
 ## Spent Rewards
--   $10,000 (+1 badge upgrade, +1 secondary point) **(badge split: 12/19)**
+-   $10,000 (+1 badge upgrade, +1 secondary point) **(badge split: 12/18)**
 -   $20,000 (+1 badge upgrade, +1 primary point, +1 secondary points) **(badge split: 13/20)**
 -   $30,000 (+1 badge upgrade, +1 primary point, +3 secondary points) **(badge split: 14/23)**
 -   $40,000 (+1 badge upgrade, +2 primary points, +2 secondary points) **(badge split: 16/25)**
